@@ -27,7 +27,9 @@ I design like I’m crafting an anime scene — slow fades, soft edges, expressi
 
 ## 💖 Kawaii Anime Vibe
 
-![Emilia kawaii wink](https://media.tenor.com/images/1e3c0cbe7c39b7425e6bfa1f683b639f/tenor.gif)
+![Emilia Kawaii GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+---
 
 ## 🚀 Featured Projects
 
