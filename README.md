@@ -1,85 +1,66 @@
-# 🚀 Nama Proyek Anda
+# こんにちは、Aizaa です！🌸
 
-Deskripsi singkat tentang proyek Anda. Buat pembaca langsung paham apa yang membuat proyek ini unik dan menarik.
-
----
-
-## ✨ Fitur Utama
-
-- ⚡ **Cepat & Efisien:** Kinerja optimal untuk kebutuhan Anda.
-- 🎨 **Desain Elegan:** Antarmuka modern dan mudah digunakan.
-- 🔒 **Keamanan Tinggi:** Perlindungan data dan privasi pengguna.
-- 🛠️ **Customizable:** Mudah diintegrasi dan dikembangkan sesuai kebutuhan.
+**Hi, I'm Aizaa — a passionate Front-End Developer**  
+✨ I craft clean UI with a touch of animation and emotion.  
+⚡ Building websites that feel alive — pixel by pixel.
 
 ---
 
-## 📦 Instalasi
+## 💻 Tech Stack
 
-```bash
-# Clone repository
-git clone https://github.com/username/repo-anda.git
-
-# Masuk ke direktori proyek
-cd repo-anda
-
-# Instal dependensi
-npm install
-# atau
-yarn install
-```
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss)
 
 ---
 
-## 🚀 Cara Penggunaan
+## 🌸 Aesthetic Dev, Inspired by Anime
 
-```bash
-npm start
-# atau
-yarn start
-```
+> _“You should enjoy the little detours. Because that's where you'll find the things more important than what you want.”_  
+> — *Ging Freecss, Hunter x Hunter*
 
-Buka [http://localhost:3000](http://localhost:3000) di browser Anda.
+I design like I’m crafting an anime scene — slow fades, soft edges, expressive pixels.
 
 ---
 
-## 📂 Struktur Proyek
+## 💖 Kawaii Anime Vibe
 
-```
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── utils/
-├── public/
-├── README.md
-└── package.json
-```
+![Emilia kawaii wink](https://media.tenor.com/images/1e3c0cbe7c39b7425e6bfa1f683b639f/tenor.gif)
+
+## 🚀 Featured Projects
+
+- 🎨 [aizwa.is-a.dev](https://aizwa.is-a.dev) — My animated portfolio with framer-motion flair.
+- 👾 Hidden Easter Egg Game — find it in the source.
+- 🌑 Seamless dark mode switch & scroll-based project transitions.
 
 ---
 
-## 👥 Kontribusi
+## 🎧 Coding Vibes: Anime Playlists
 
-Kontribusi sangat terbuka! Silakan buat [issue](https://github.com/username/repo-anda/issues) atau [pull request](https://github.com/username/repo-anda/pulls) untuk menambahkan fitur, memperbaiki bug, atau meningkatkan dokumentasi.
+> _Music fuels creativity — especially anime OSTs..._
 
----
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+[![Anime Lo-fi](https://img.shields.io/badge/-LoFi%20Anime%20Beats-F16775?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VfP36gZzE3Y)  
+[![Ghibli OSTs](https://img.shields.io/badge/-Studio%20Ghibli%20Piano%20Mix-90C695?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=H3kHTWzqV1k)  
+[![Emotional Anime Piano](https://img.shields.io/badge/-Sad%20Anime%20Piano%20Mix-6E44FF?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ds_K2mYAZNw)
 
 ---
 
-## 📞 Kontak
+## 📫 Let's Connect
 
-- Email: your.email@example.com
-- LinkedIn: [Nama Anda](https://linkedin.com/in/username)
-- Website: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-> "Berkontribusi hari ini, ciptakan perubahan untuk esok." ✨
+[![Twitter](https://img.shields.io/badge/-@aizaa-black?style=flat&logo=twitter)](https://twitter.com/yourhandle)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/abqoryme)  
+📬 DM me if you wanna collab on something cool.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&width=435&lines=Selamat+Datang+di+Proyek+Kami%21;Open+Source+untuk+Semua+%F0%9F%92%BB" alt="Welcome Typing SVG" />
-</p>
+## 🧠 Fun Facts
+
+- 🍵 Night owl + tea drinker
+- ✍️ UI inspired by anime OPs & games
+- 🧩 Secretly building something big...
+
+---
+
+_“Code is my ninjutsu... and anime is my chakra.”_ 🌀
