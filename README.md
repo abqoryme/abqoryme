@@ -27,7 +27,7 @@ I design like I’m crafting an anime scene — slow fades, soft edges, expressi
 
 ## 💖 Kawaii Anime Vibe
 
-![Emilia Kawaii GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Emilia Kawaii GIF](https://giphy.com/gifs/dancing-arararagi-ss9NqmOeQxRKg)
 
 ---
 
