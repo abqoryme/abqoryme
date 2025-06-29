@@ -25,9 +25,9 @@ I design like I’m crafting an anime scene — slow fades, soft edges, expressi
 
 ---
 
-## Kawaii Anime Vibe
+## Anime
 
-![Emilia Kawaii GIF](https://gifdb.com/images/high/yes-sir-cute-anime-girl-58iworpavbis2c76.webp)
+![GIF](https://gifdb.com/images/high/sweet-caroline-genshin-impact-9mszn4xsegxvy6o3.webp)
 
 ---
 
@@ -52,7 +52,6 @@ I design like I’m crafting an anime scene — slow fades, soft edges, expressi
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/abqoryme)  
-📬 DM me if you wanna collab on something cool.
 
 ---
 
