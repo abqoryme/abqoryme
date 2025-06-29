@@ -1,6 +1,6 @@
-# こんにちは、Aizaa です！🌸
+# こんにちは、Aizawa (Ainz) です!
 
-**Hi, I'm Aizaa — a passionate Front-End Developer**  
+**Hi, I'm Aizawa — a passionate Front-End Developer**  
 ✨ I craft clean UI with a touch of animation and emotion.  
 ⚡ Building websites that feel alive — pixel by pixel.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌸 Aesthetic Dev, Inspired by Anime
+## Aesthetic Dev, Inspired by Anime
 
 > _“You should enjoy the little detours. Because that's where you'll find the things more important than what you want.”_  
 > — *Ging Freecss, Hunter x Hunter*
@@ -25,7 +25,7 @@ I design like I’m crafting an anime scene — slow fades, soft edges, expressi
 
 ---
 
-## 💖 Kawaii Anime Vibe
+## Kawaii Anime Vibe
 
 ![Emilia Kawaii GIF](https://gifdb.com/images/high/yes-sir-cute-anime-girl-58iworpavbis2c76.webp)
 
@@ -33,7 +33,7 @@ I design like I’m crafting an anime scene — slow fades, soft edges, expressi
 
 ## 🚀 Featured Projects
 
-- 🎨 [aizwa.is-a.dev](https://aizwa.is-a.dev) — My animated portfolio with framer-motion flair.
+- 🎨 [aizawa.is-a.dev](https://aizawa.is-a.dev) — My animated portfolio with framer-motion flair.
 - 👾 Hidden Easter Egg Game — find it in the source.
 - 🌑 Seamless dark mode switch & scroll-based project transitions.
 
@@ -51,7 +51,6 @@ I design like I’m crafting an anime scene — slow fades, soft edges, expressi
 
 ## 📫 Let's Connect
 
-[![Twitter](https://img.shields.io/badge/-@aizaa-black?style=flat&logo=twitter)](https://twitter.com/yourhandle)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/abqoryme)  
 📬 DM me if you wanna collab on something cool.
 
