@@ -33,7 +33,7 @@ I design like I’m crafting an anime scene — slow fades, soft edges, expressi
 
 ## 🚀 Featured Projects
 
-- 🎨 [Portfolio](https://abqoryme.github.io/portfolio.github.io/) — My portfolio.
+- 🎨 [Portfolio](https://aizawa.is-a.dev) — My portfolio.
 - 👾 Hidden Easter Egg Game — find it in the source.
 - 🌑 Seamless dark mode switch & scroll-based project transitions.
 
