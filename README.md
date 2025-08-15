@@ -1,4 +1,4 @@
-![Ahmad Abqory Banner](https://raw.githubusercontent.com/abqoryme/abqoryme/master/assets/file_00000000f95861f690a4c1bda02425b2.jpg)
+![Ahmad Abqory Banner](https://raw.githubusercontent.com/abqoryme/abqoryme/master/assets/file_00000000f95861f690a4c1bda02425b2.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Halo! Saya Abqory</h2>
 
