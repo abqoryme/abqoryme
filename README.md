@@ -40,8 +40,7 @@
 ### 🤝🏻 &nbsp;Terhubung dengan Saya
 
 <p align="center">
-<a href="https://abqory.is-a.dev"><img src="https://img.shields.io/badge/-abqory.is-a.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://abqory.is-a.dev"><img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
 <a href="mailto:a.abqory@proton.me"><img src="https://img.shields.io/badge/-a.abqory@proton.me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ahmadabkorimudabig"><img src="https://img.shields.io/badge/-@ahmadabqory-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
