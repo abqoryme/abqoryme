@@ -12,7 +12,7 @@
 ✉️ &nbsp;Anda bisa mengirim email ke a.abqory@proton.me! Saya akan mencoba membalas secepat mungkin.\
 📄 &nbsp;Silakan lihat [Résumé](https://abqory.is-a.dev/resume) saya untuk lebih banyak detail tentang saya. Saya terbuka untuk masukan dan saran!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/abqoryme/abqoryme/master/assets/1bd45567edfc267bba85f666202bace5.gif" align="right"/>
+<img alt="Night Coding" src="https://tenor.com/view/hermione-gif-22881983" align="right"/>
 
 ### 🛠 &nbsp;Teknologi yang Dikuasai
 
@@ -40,7 +40,7 @@
 ### 🤝🏻 &nbsp;Terhubung dengan Saya
 
 <p align="center">
-<a href="https://abqory.is-a.dev"><img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
+<a href="https://abqory.is-a.dev"><img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white"/></a>
 <a href="mailto:a.abqory@proton.me"><img src="https://img.shields.io/badge/-a.abqory@proton.me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ahmadabkorimudabig"><img src="https://img.shields.io/badge/-@ahmadabqory-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
