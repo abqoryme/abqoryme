@@ -1,66 +1,48 @@
-# こんにちは、Aizawa (Ainz) です!
+![Ahmad Abqory Banner](https://raw.githubusercontent.com/abqoryme/abqoryme/master/assets/Ahmad%20Abqory.png)
 
-**Hi, I'm Aizawa — a passionate Front-End Developer**  
-✨ I craft clean UI with a touch of animation and emotion.  
-⚡ Building websites that feel alive — pixel by pixel.
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Halo! Saya Abqory</h2>
 
----
+### 👨🏻‍💻 &nbsp;Tentang Saya
 
-## 💻 Tech Stack
+💡 &nbsp;Saya suka mengeksplorasi teknologi baru dan mengembangkan solusi perangkat lunak serta trik cepat.\
+🎓 &nbsp;Saat ini saya sedang belajar Ilmu Sistem Informasi dan Agama di University of Ibn Khaldun.\
+🌱 &nbsp;Saya sedang dalam jalur untuk mempelajari lebih banyak tentang Kecerdasan Buatan, Desain Sistem, dan Graphic Design.\
+✍️ &nbsp;Di waktu luang, saya menekuni Pembuatan Bot dan Mengembangkan Website sebagai hobi.\
+💬 &nbsp;Jangan ragu untuk menghubungi saya untuk berkenalan dan kegiatan relawan, atau sekadar berdiskusi menarik.\
+✉️ &nbsp;Anda bisa mengirim email ke a.abqory@proton.me! Saya akan mencoba membalas secepat mungkin.\
+📄 &nbsp;Silakan lihat [Résumé](https://abqory.is-a.dev/resume) saya untuk lebih banyak detail tentang saya. Saya terbuka untuk masukan dan saran!
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss)
+<img alt="Night Coding" src="https://raw.githubusercontent.com/abqoryme/abqoryme/master/assets/anime.gif" align="right"/>
 
----
+### 🛠 &nbsp;Teknologi yang Dikuasai
 
-## Aesthetic Dev, Inspired by Anime
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![CorelDraw](https://img.shields.io/badge/-CorelDraw-05122A?style=flat&logo=CorelDraw)
 
-> _“You should enjoy the little detours. Because that's where you'll find the things more important than what you want.”_  
-> — *Ging Freecss, Hunter x Hunter*
+### ⚙️ &nbsp;Analisis GitHub
 
-I design like I’m crafting an anime scene — slow fades, soft edges, expressive pixels.
+<p align="center">
+<a href="https://github.com/abqoryme">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abqoryme&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abqoryme&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
----
+### 🤝🏻 &nbsp;Terhubung dengan Saya
 
-## Anime
-
-![GIF](https://gifdb.com/images/high/sweet-caroline-genshin-impact-9mszn4xsegxvy6o3.webp)
-
----
-
-## 🚀 Featured Projects
-
-- 🎨 [Portfolio](https://aizawa.is-a.dev) — My portfolio.
-- 👾 Hidden Easter Egg Game — find it in the source.
-- 🌑 Seamless dark mode switch & scroll-based project transitions.
-
----
-
-## 🎧 Coding Vibes: Anime Playlists
-
-> _Music fuels creativity — especially anime OSTs..._
-
-[![Anime Lo-fi](https://img.shields.io/badge/-LoFi%20Anime%20Beats-F16775?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VfP36gZzE3Y)  
-[![Ghibli OSTs](https://img.shields.io/badge/-Studio%20Ghibli%20Piano%20Mix-90C695?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=H3kHTWzqV1k)  
-[![Emotional Anime Piano](https://img.shields.io/badge/-Sad%20Anime%20Piano%20Mix-6E44FF?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ds_K2mYAZNw)
-
----
-
-## 📫 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/abqoryme)  
-
----
-
-## 🧠 Fun Facts
-
-- 🍵 Night owl + tea drinker
-- ✍️ UI inspired by anime OPs & games
-- 🧩 Secretly building something big...
-
----
-
-_“Code is my ninjutsu... and anime is my chakra.”_ 🌀
+<p align="center">
+<a href="https://abqory.is-a.dev"><img src="https://img.shields.io/badge/-abqory.is-a.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:a.abqory@proton.me"><img src="https://img.shields.io/badge/-a.abqory@proton.me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ahmadabkorimudabig"><img src="https://img.shields.io/badge/-@ahmadabqory-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
