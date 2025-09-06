@@ -38,7 +38,7 @@
 </p>
 
 ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/abqoryme/abqoryme/output/github-contribution-grid-snake-dark.svg)
 
 ### 🤝🏻 &nbsp;Terhubung dengan Saya
 
