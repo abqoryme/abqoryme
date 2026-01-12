@@ -4,11 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;Tentang Saya
 
-💡 &nbsp;Saya suka mengeksplorasi teknologi baru dan mengembangkan solusi perangkat lunak serta trik cepat.\
+💡 &nbsp;Saya suka mencoba hal-hal baru dan mengembangkan perangkat lunak serta mencari tips and trik cepat.\
 🎓 &nbsp;Saat ini saya sedang belajar Ilmu Sistem Informasi dan Agama di University of Ibn Khaldun.\
-🌱 &nbsp;Saya sedang dalam jalur untuk mempelajari lebih banyak tentang Kecerdasan Buatan, Desain Sistem, dan Graphic Design.\
+🌱 &nbsp;Saya sedang dalam jalur untuk mempelajari lebih banyak tentang Kecerdasan Buatan, Desain Sistem, dan Data Analyst.\
 ✍️ &nbsp;Di waktu luang, saya menekuni Pembuatan Bot dan Mengembangkan Website sebagai hobi.\
-💬 &nbsp;Jangan ragu untuk menghubungi saya untuk berkenalan dan kegiatan relawan, atau sekadar berdiskusi menarik.\
+💬 &nbsp;Jangan ragu untuk menghubungi saya untuk berkenalan atau sekadar berdiskusi menarik.\
 ✉️ &nbsp;Anda bisa mengirim email ke a.abqory@proton.me! Saya akan mencoba membalas secepat mungkin.\
 📄 &nbsp;Silakan lihat [Résumé](https://abqory.is-a.dev/resume) saya untuk lebih banyak detail tentang saya. Saya terbuka untuk masukan dan saran!
 
