@@ -12,21 +12,16 @@
 ✉️ &nbsp;Anda bisa mengirim email ke a.abqory@proton.me! Saya akan mencoba membalas secepat mungkin.\
 📄 &nbsp;Silakan lihat [Résumé](https://abqory.is-a.dev/resume) saya untuk lebih banyak detail tentang saya. Saya terbuka untuk masukan dan saran!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/abqoryme/abqoryme/master/assets/76584.gif" align="right"/>
+<img alt="Night Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlxd3cwdjEwZXJwdHh1dDdvaGV5c3ZzczhwOWNuaWx0bnp2NnZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vcoImpiwmNo2BN38MK/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Teknologi yang Dikuasai
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
-![CorelDraw](https://img.shields.io/badge/-CorelDraw-05122A?style=flat&logo=CorelDraw)
 
 ### ⚙️ &nbsp;Analisis GitHub
 
