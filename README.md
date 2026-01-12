@@ -12,7 +12,7 @@
 ✉️ &nbsp;Anda bisa mengirim email ke a.abqory@proton.me! Saya akan mencoba membalas secepat mungkin.\
 📄 &nbsp;Silakan lihat [Résumé](https://abqory.is-a.dev/resume) saya untuk lebih banyak detail tentang saya. Saya terbuka untuk masukan dan saran!
 
-<img alt="Night Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlxd3cwdjEwZXJwdHh1dDdvaGV5c3ZzczhwOWNuaWx0bnp2NnZ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vcoImpiwmNo2BN38MK/giphy.gif" align="right"/>
+<img alt="Night Coding" src="./asset/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Teknologi yang Dikuasai
 
